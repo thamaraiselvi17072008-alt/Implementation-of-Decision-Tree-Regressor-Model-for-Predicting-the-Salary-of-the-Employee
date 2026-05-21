@@ -9,8 +9,11 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm
 1.Import pandas
+
 2.Import Decision tree classifier
+
 3.Fit the data in the model
+
 4.Find the accuracy score 
 
 ## Program:
